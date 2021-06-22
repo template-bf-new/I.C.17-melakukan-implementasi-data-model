@@ -1,0 +1,37 @@
+= Dokumen Implementasi Data Model
+
+[.text-center]
+Priyanto Tamami <tamami.oka@gmail.com>
+
+[.text-center]
+Badan Pendapatan Daerah +
+Pemerintah Kabupaten Brebes
+
+:doctype: article
+:author: tamami
+:source-highlighter: rouge
+:table-caption: Tabel 
+:sourcedir: src
+:includedir: contents
+:imagesdir: images
+:chapter-label: Bab
+:figure-caption: Gambar 
+:icons: font
+////
+Use this if you create a full cover in one page
+:front-cover-image: image::./images/title_page.png[]
+////
+//:title-logo-image: images/logo-zimera.png
+
+
+== Deskripsi dan Ruang Lingkup Data Model yang Akan Diimplementasikan
+
+== Hasil Telaah Rancangan _Database_
+
+== Dokumentasi Tahapan Implementasi
+
+mencakup proses pembuatan _database_, tabel, relasi tabel, indeks, trigger, serta komponen lain berdasarkan rancangan yang ditetapkan
+
+== Tahapan Pengujian _Database_
+
+== Hasil Pengujian _Database_
